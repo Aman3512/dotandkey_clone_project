@@ -279,3 +279,15 @@ let coll= document.querySelectorAll(".conbx");
 
 
     }
+
+    document.querySelector('#logo').addEventListener("click",function(){
+        window.location.href="index.html";
+      })
+      
+      document.querySelector('#location_aman').addEventListener("click",function(){
+        window.location.href="location.html";
+      })
+      
+      document.querySelector('#profile_aman').addEventListener("click",function(){
+        window.location.href="signin.html";
+      })

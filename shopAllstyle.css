@@ -1318,3 +1318,8 @@
         margin-left: -10px;
       }
       }
+
+      #conter p{
+        cursor: pointer;
+    }
+   
