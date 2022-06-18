@@ -1,0 +1,182 @@
+
+        #conter
+        {   
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(114, 96, 96);
+          width: 100%;
+          line-height: 50px;
+          font-size: 18px;
+           display: grid;
+           grid-template-rows: 200px;
+           grid-template-columns: 30% 30% 38%;
+          
+         padding-top: 80px;
+        
+       
+        
+
+        }
+       
+        #conter>div
+        {
+            margin-left: 100px;
+        }
+        .fal{
+            display: flex;
+            margin-top: 15px;
+       
+            align-items: center;
+        }
+        
+        .imggg{
+            width: 30px;
+            height: 29px;
+            margin: 5px;
+
+        
+        }
+        #inpdesk
+        { width: 250px;
+           height: 50px;
+           border-top: 20px;
+           border-left:2px ;
+           border-right: 2px;
+           margin: 10px;
+           text-align: center;
+           font-size: 18px;
+        }
+       #emailbtnnn
+        {
+            width: 80px;
+            height: 50px;
+            color: white;
+            border: none;
+            display: inline;
+            cursor: pointer;
+            background-color: rgb(65, 53, 53);
+        }
+        #cont
+        {
+            display: none;
+        }
+        .anc{
+            color: rgb(114, 96, 96);
+           text-decoration: none;
+
+        }
+
+        /* @media only screen and (min-width: 320px) and (max-width: 499px) {
+            #conter{
+                display: none;
+            }
+            #cont{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                display: block;
+                width: 100%;
+                color: rgb(114, 96, 96);
+             
+              
+            }
+            .conbx{
+                margin-top: 10px;
+               
+            }
+            .label
+            {
+                width: 95%;
+                padding: 5px;
+                border: none;
+                text-align: left;
+                cursor: pointer;
+                font-weight: bold;
+                    font-size: 15px;
+           background-color: white;
+         
+
+            }
+            .label::before
+            {
+                content: "+";
+                float: right;
+            }
+            .conbx .contt{
+                position: relative;
+                height: 0px;
+                overflow: hidden;
+                overflow-y: auto;
+            }
+            .conbx.active .label::before{
+                content: "-";
+
+            }
+            .conbx.active .contt{
+                height: auto;
+                line-height: 20px;
+              
+
+            }
+          .fal{
+              display: grid;
+              grid-template-columns: 100%;
+              grid-template-rows: 40px 50px 20px;
+              justify-content: center;
+              align-items: center;
+              text-align: center;
+          }
+         .center{
+             text-align: center;
+         }
+         #cont>div:first-child{
+            
+             width: 100%;
+            
+             color: black;
+
+         }
+         #cont+h3{
+             text-align: center;
+         }
+         #inpmob
+        { width:210px;
+           height: 48px;
+           border-top: 20px;
+           border-left:2px ;
+           border-right: 2px;
+           margin: 10px;
+           text-align: center;
+           font-size: 18px;
+        }
+       #emailbtnnn
+        {
+            width: 87px;
+            height: 52px;
+            color: white;
+            border: none;
+            margin-left: -15px;
+            cursor: pointer;
+            
+            background-color: rgb(65, 53, 53);
+        }
+        .anc{
+            color: rgb(114, 96, 96);
+           text-decoration: none;
+
+        }
+        .btnnn{
+            display: grid;
+            grid-template-rows: auto;
+            grid-template-columns: 70% 30%;
+            justify-content: center;
+            align-items: center;
+          
+        }
+            
+           
+
+            
+          
+
+        
+    } */
+
+   
