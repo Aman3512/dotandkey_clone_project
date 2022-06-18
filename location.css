@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+}
+#dotkeyone{
+  display: block;
+  margin: auto;
+  text-align: center;
+  height: 100vh;
+}
+#dotkeyclone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  background-color: white;
+
+}
+.container {
+  display: block;
+  width: 450px;
+border: 1px solid black;
+  margin: 100px 0;
+  padding: 36px;
+text-align: center;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 500;
+ 
+  
+}
+#box {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+label {
+  display: block;
+  font-size:14px;
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  color: #444444;
+  /* margin: 40px 0 10px 0; */
+   text-align: center;
+  letter-spacing: 0.2em;
+  margin-bottom: -15px;
+  
+
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+.form:first-child {
+  margin-top: 0px;
+}
+.form:last-child {
+  margin-bottom: 0px;
+}
+.form__title {
+  font-weight: 700;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #444444;
+  font-family: Ubuntu, sans-serif;
+}
+
+.form__input-error-message {
+  margin-bottom: 20px;
+}
+
+.form__input {
+  font-size: 16px;
+  font-weight: 500;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 10px;
+ 
+ background-color: white;
+  margin: 10px 0 40px 0;
+  letter-spacing: 0.2em;
+  height: 60px;
+  line-height: 2px;
+}
+.form__button {
+  font-size:16px;
+  font-weight: 700;
+  width: 40%;
+  cursor: pointer;
+  height: 40px;
+  background-color: #3c3c3c;
+  color: white;
+  border: 0;
+ /* margin-bottom: -100px; */
+ 
+}
+.form__text {
+  
+  margin: 25px 0;
+  font-size: 18px;
+}
+.form__link {
+  text-decoration: none;
+  color: #444444;
+  font-size: 18px;
+ 
+}
+.form__link:hover {
+  font-weight: bold;
+  font-size: 20px;
+}
+.reset {
+  color: rgb(60 60 60);
+  font-family: Ubuntu, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+}
+#cancel {
+  border: 0;
+  background-color: white;
+  font-family: Ubuntu, sans-serif;
+  font-style: normal;
+  letter-spacing: 0.2em;
+  margin-top: 60px;
+  cursor: pointer;
+}
+#submit {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Ubuntu, sans-serif;
+  font-style: normal;
+  cursor: pointer;
+  padding: 5px 0;
+  background-color: #444444;
+  color: white;
+  border: 0;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+
