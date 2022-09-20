@@ -2,7 +2,7 @@
 
 This repo is the clone of dotandkey website , which is An E-commerce website that deals in Skincare products.
 
-## Some Screeshots of our Project :-
+## Some Screenshots of our Project :-
 
 ### * Home Page 
 
