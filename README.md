@@ -8,7 +8,7 @@ This repo is the clone of dotandkey website , which is An E-commerce website tha
 
 ![dotandkey](https://user-images.githubusercontent.com/103629917/191197195-5657db2a-f425-4c50-89ab-8aa53144beac.png)
 
-### * Footer Page
+### * Footer 
 
 ![footer](https://user-images.githubusercontent.com/103629917/191197290-3395496d-10bc-4a0d-b613-51a9d195ba3a.png)
 
