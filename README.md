@@ -23,7 +23,3 @@ This repo is the clone of dotandkey website , which is An E-commerce website tha
 ### * Payment Page
 
 ![payment](https://user-images.githubusercontent.com/103629917/195595206-997a2f29-06a4-46c7-9af7-360d58676d9e.png)
-
-### * Success page
-
-![success](https://user-images.githubusercontent.com/103629917/191199183-8ee76d50-3a12-4582-9c9b-4d08d6841dd3.png)
