@@ -38,3 +38,5 @@ This repo is the clone of dotandkey website , which is An E-commerce website tha
 - Parag Jain
 - Omesh Dubey
 - Sunil Chaudhary
+- Sushant Shekhar
+
