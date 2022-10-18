@@ -561,9 +561,10 @@ margin-top: 30vh;
 #ikwi {
   cursor: pointer;
 
-  width: 70%;
+  width: 80%;
   margin: auto;
-  margin: 200px auto 200px 200px;
+  margin-top: 300px;
+  /* margin: 200px auto 200px 200px; */
 }
 
 #a2 {
@@ -874,7 +875,7 @@ img {
       margin-right: -30px;
     }
     .middleCard1 {
-      transform: scaley(1.5) scaleX(1.2);
+      transform: scaley(1.2) scaleX(1);
       /* transform: scalex(1.3); */
     }
 
