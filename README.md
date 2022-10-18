@@ -23,3 +23,20 @@ This repo is the clone of dotandkey website , which is An E-commerce website tha
 ### * Payment Page
 
 ![payment](https://user-images.githubusercontent.com/103629917/195595206-997a2f29-06a4-46c7-9af7-360d58676d9e.png)
+
+### * Tech Stack
+
+- HTML
+- Java Script
+- CSS
+
+
+### * Team-Members
+
+- Nikhil Chauhan
+- Aman Singh Rawat
+- Parag Jain
+- Omesh Dubey
+- Sunil Chaudhary
+- Sushant Shekhar
+
