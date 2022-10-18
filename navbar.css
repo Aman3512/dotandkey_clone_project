@@ -178,18 +178,6 @@ body {
   justify-content: space-between;
 }
 
-/* #menuOptn {
-  border: 1px solid;
-  position: fixed;
-  top: 200px;
-  width: 100%;
-  height: 300px;
-  background-color: white;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  box-sizing: border-box;
-} */
 #container{
   display: flex;
   width:100%;
